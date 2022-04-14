@@ -1,0 +1,24 @@
+{
+  "name": "trashbo-venom-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jallapeno/trashbo-venom-bot.git"
+  },
+  "author": "Hytalo Antonio - Jallapeno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jallapeno/trashbo-venom-bot/issues"
+  },
+  "homepage": "https://github.com/Jallapeno/trashbo-venom-bot#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-cron": "^3.0.0",
+    "venom-bot": "^4.0.9"
+  }
+}
